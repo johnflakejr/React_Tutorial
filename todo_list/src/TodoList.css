@@ -1,0 +1,24 @@
+.todo_item {
+  width: 100%;
+  text-align: center;
+  margin: 10px;
+  background-color: red;
+  padding: 10px;
+  color: whitesmoke;
+  border-style: solid;
+  border-color: black;
+}
+
+.add_button {
+  background-color: red;
+  color: white;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+}
+
+.container {
+  width: 35%;
+  text-align: center;
+  margin: auto;
+}
